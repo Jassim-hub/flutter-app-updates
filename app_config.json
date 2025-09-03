@@ -1,0 +1,52 @@
+﻿{
+  "latest_version": "1.0.0",
+  "latest_build_number": 1,
+  "force_update": false,
+  "update_message": "🎬 Welcome to Nana Movie Hub! Enjoy unlimited streaming.",
+  "download_url": "https://play.google.com/store/apps/details?id=com.example.nana_mobile",
+  "minimum_supported_version": "1.0.0",
+  "minimum_supported_build": 1,
+  "app_variant": {
+    "type": "movie",
+    "app_name": "Nana Movie Hub",
+    "primary_color": "#1E88E5",
+    "secondary_color": "#FFA726",
+    "enable_movies": true,
+    "enable_series": true,
+    "enable_quotes": false,
+    "enable_downloads": true,
+    "enable_chromecast": true,
+    "enable_reviews": true,
+    "enable_subscriptions": true,
+    "app_theme": "dark",
+    "features": {
+      "offline_mode": true,
+      "push_notifications": true,
+      "social_sharing": true,
+      "continue_watching": true,
+      "favorites": true,
+      "search": true,
+      "filters": true
+    },
+    "content_config": {
+      "default_quality": "HD",
+      "auto_play": false,
+      "show_trailers": true,
+      "show_ratings": true,
+      "show_reviews": true,
+      "max_downloads": 50
+    }
+  },
+  "maintenance": {
+    "is_under_maintenance": false,
+    "maintenance_message": "We're updating our servers to serve you better. Please check back in a few minutes.",
+    "estimated_completion": "2025-09-03T18:00:00Z"
+  },
+  "release_notes": [
+    "🎬 High-quality video streaming",
+    "📱 Beautiful user interface", 
+    "🔍 Advanced search and filters",
+    "📥 Download for offline viewing",
+    "⭐ Rate and review content"
+  ]
+}

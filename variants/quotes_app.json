@@ -1,0 +1,23 @@
+﻿{
+  "app_variant": {
+    "type": "quotes",
+    "app_name": "Daily Wisdom",
+    "primary_color": "#FF6B6B",
+    "secondary_color": "#4ECDC4",
+    "enable_movies": false,
+    "enable_series": false,
+    "enable_quotes": true,
+    "enable_downloads": false,
+    "enable_chromecast": false,
+    "enable_reviews": true,
+    "enable_subscriptions": false,
+    "app_theme": "light",
+    "features": {
+      "daily_quotes": true,
+      "favorites": true,
+      "social_sharing": true,
+      "categories": true,
+      "search": true
+    }
+  }
+}
