@@ -1,11 +1,11 @@
 ﻿{
-  "latest_version": "1.0.0",
-  "latest_build_number": 1,
+  "latest_version": "1.0.1",
+  "latest_build_number": 2,
   "force_update": true,
-  "update_message": "🚨 Critical Update Required! This version is no longer supported. Please update to continue using Nana Movie Hub.",
+  "update_message": "🚨 Critical Update Required! Version 1.0.1 includes important fixes and improvements. Please update to continue using Nana Movie Hub.",
   "download_url": "https://play.google.com/store/apps/details?id=com.example.nana_mobile",
-  "minimum_supported_version": "1.0.0",
-  "minimum_supported_build": 1,
+  "minimum_supported_version": "1.0.1",
+  "minimum_supported_build": 2,
   "app_variant": {
     "type": "movie",
     "app_name": "Nana Movie Hub",
@@ -43,10 +43,10 @@
     "estimated_completion": "2025-09-03T18:00:00Z"
   },
   "release_notes": [
-    "🎬 High-quality video streaming",
-    "📱 Beautiful user interface",
-    "🔍 Advanced search and filters",
-    "📥 Download for offline viewing",
-    "⭐ Rate and review content"
+    "🚀 Improved download speeds and reliability",
+    "⏸️ Pause/resume downloads on connection loss",
+    "💾 Persistent download progress across app restarts",
+    "🐛 Bug fixes and performance improvements",
+    "📱 Enhanced user experience"
   ]
 }
