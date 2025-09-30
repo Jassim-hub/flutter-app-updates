@@ -1,11 +1,11 @@
 ﻿{
-  "latest_version": "1.0.1",
-  "latest_build_number": 2,
+  "latest_version": "1.0.2",
+  "latest_build_number": 3,
   "force_update": true,
-  "update_message": "🚨 Critical Update Required! Version 1.0.1 includes important fixes and improvements. Please update to continue using Nana Movie Hub.",
-  "download_url": "https://play.google.com/store/apps/details?id=com.example.nana_mobile",
-  "minimum_supported_version": "1.0.1",
-  "minimum_supported_build": 2,
+  "update_message": "🚨 Critical Update Required! Version 1.0.2 includes important security fixes and performance improvements. Please update immediately to continue using Nana Movie Hub.",
+  "download_url": "https://github.com/Jassim-hub/nanamoviehub-3/releases/download/v1.0.2/nana_mobile_v1.0.2.apk",
+  "minimum_supported_version": "1.0.2",
+  "minimum_supported_build": 3,
   "app_variant": {
     "type": "movie",
     "app_name": "Nana Movie Hub",
@@ -39,7 +39,7 @@
   },
   "maintenance": {
     "is_under_maintenance": false,
-    "maintenance_message": "We'"'"'re updating our servers to serve you better. Please check back in a few minutes.",
+    "maintenance_message": "We're updating our servers to serve you better. Please check back in a few minutes.",
     "estimated_completion": "2025-09-03T18:00:00Z"
   },
   "release_notes": [
