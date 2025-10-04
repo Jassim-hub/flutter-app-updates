@@ -1,6 +1,6 @@
 ﻿{
   "latest_version": "2.0.0+1",
-  "latest_build_number": 2,
+  "latest_build_number": 1,
   "force_update": true,
   "update_message": "🚨 Critical Update Required! Version 2.0.0+2 includes important security fixes and performance improvements. Please update immediately to continue using Nana Movie Hub.",
   "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub%20%282%29.apk",
