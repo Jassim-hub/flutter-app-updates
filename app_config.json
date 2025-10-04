@@ -1,11 +1,11 @@
 ﻿{
-  "latest_version": "1.0.2",
-  "latest_build_number": 4,
+  "latest_version": "2.0.0+1",
+  "latest_build_number": 2,
   "force_update": true,
-  "update_message": "🚨 Critical Update Required! Version 1.0.2 includes important security fixes and performance improvements. Please update immediately to continue using Nana Movie Hub.",
+  "update_message": "🚨 Critical Update Required! Version 2.0.0+2 includes important security fixes and performance improvements. Please update immediately to continue using Nana Movie Hub.",
   "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub%20%282%29.apk",
-  "minimum_supported_version": "1.0.2",
-  "minimum_supported_build": 3,
+  "minimum_supported_version": "2.0.0+1",
+  "minimum_supported_build": 1,
   "app_variant": {
     "type": "movie",
     "app_name": "Nana Movie Hub",
