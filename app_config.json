@@ -3,7 +3,7 @@
   "latest_build_number": 2,
   "force_update": true,
   "update_message": "🚨 Critical Update Required! Version 2.0.0+2 includes important fixes:\n\n✅ Downloads no longer reset to 0%\n✅ Pause/Resume now works perfectly\n✅ Video player stability improved\n\nPlease update now for the best experience!",
-  "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub%20v2.0.0+2.apk",
+  "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub-10.apk",
   "minimum_supported_version": "2.0.0+1",
   "minimum_supported_build": 1,
   "app_variant": {
