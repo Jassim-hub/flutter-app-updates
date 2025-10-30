@@ -1,9 +1,9 @@
-﻿{
-  "latest_version": "2.0.0+2",
-  "latest_build_number": 2,
+{
+  "latest_version": "4.0.4",
+  "latest_build_number": 5,
   "force_update": true,
-  "update_message": "🚨 Critical Update Required! Version 2.0.0+2 includes important fixes:\n\n✅ Downloads no longer reset to 0%\n✅ Pause/Resume now works perfectly\n✅ Video player stability improved\n\nPlease update now for the best experience!",
-  "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub-10.apk",
+  "update_message": "🚨 Critical Update Required! Version 4.0.4 includes important fixes:\n\n✅ Downloads no longer reset to 0%\n✅ Pause/Resume now works perfectly\n✅ Video player stability improved\n\nPlease update now for the best experience!",
+  "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub-11.apk",
   "minimum_supported_version": "2.0.0+1",
   "minimum_supported_build": 1,
   "app_variant": {
@@ -52,7 +52,7 @@
     "🚀 Intelligent auto-pause when downloads encounter issues",
     "💾 Enhanced progress preservation with 3 layers of protection",
     "⚡ Foreground service support for reliable background downloads",
-    "� Improved video player lifecycle with texture recreation",
-    "� Netflix-level download reliability implemented"
+    "✨ Improved video player lifecycle with texture recreation",
+    "🎬 Netflix-level download reliability implemented"
   ]
 }
