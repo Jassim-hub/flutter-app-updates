@@ -1,8 +1,8 @@
 {
-  "latest_version": "4.0.4",
-  "latest_build_number": 5,
+  "latest_version": "4.0.5",
+  "latest_build_number": 6,
   "force_update": true,
-  "update_message": "🚨 Critical Update Required! Version 4.0.4 includes important fixes:\n\n✅ Downloads no longer reset to 0%\n✅ Pause/Resume now works perfectly\n✅ Video player stability improved\n\nPlease update now for the best experience!",
+  "update_message": "What's New ? \n\nImproved Download Stability \nImproved Stream Stability \nMinor Errors Fixed",
   "download_url": "https://flutter.nanamoviehubbeta.com/Nana%20Movie%20Hub-11.apk",
   "minimum_supported_version": "2.0.0+1",
   "minimum_supported_build": 1,
@@ -43,16 +43,8 @@
     "estimated_completion": "2025-09-03T18:00:00Z"
   },
   "release_notes": [
-    "🎯 CRITICAL FIX: Downloads never reset to 0% anymore!",
-    "⏸️ FIXED: Pause/Resume functionality now works without errors",
-    "🔄 FIXED: Download progress preserved across app restarts and network issues",
-    "🚫 FIXED: Backward progress detection prevents server restart issues",
-    "📱 FIXED: Download notifications persist when app is closed",
-    "🎬 FIXED: Video player black screen after app switching",
-    "🚀 Intelligent auto-pause when downloads encounter issues",
-    "💾 Enhanced progress preservation with 3 layers of protection",
-    "⚡ Foreground service support for reliable background downloads",
-    "✨ Improved video player lifecycle with texture recreation",
-    "🎬 Netflix-level download reliability implemented"
+    "Improved Download Stability",
+    "Improved Stream Stability",
+    "Minor Errors Fixed"
   ]
 }
